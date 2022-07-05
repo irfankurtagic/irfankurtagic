@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfan
 - 👀 I’m interested in Software Development, philosophy, Linux...
-- 🌱 I’m currently learning Vue.js and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on mostly open-source projects, but it doesn't matter, as long is useful to people.
 - 📫 How to reach me | You can find me on Twitter @irfanthegrey 👋👍
 
