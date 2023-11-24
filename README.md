@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Irfan
-- 👀 I’m interested in philosophy, Linux and tech.
+- 👀 I’m interested in philosophy, Linux, Windows, and tech in general.
 - 🌱 I’m mainly updating questions for Harry Potter and Philosophy quizzes.
 - 📫 How to reach me | You can find me on Twitter @irfanthegrey 👋👍
 
