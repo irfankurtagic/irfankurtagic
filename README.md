@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irfan
+- 👋 Hi, my name is Irfan
 - 👀 I’m interested in philosophy, Linux and just a bit of Software Development.
 - 🌱 I’m mainly updating my repos, such as new questions for my Harry Potter and Philosophy quizes.
 - 📫 How to reach me | You can find me on Twitter @irfanthegrey 👋👍
