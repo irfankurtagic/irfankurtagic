@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @irfan
-- 👀 I’m interested in Software Development, philosophy, Linux...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on mostly open-source projects, but it doesn't matter, as long is useful to people.
+- 👀 I’m interested in philosophy, Linux and just a bit of Software Development.
+- 🌱 I’m mainly updating my repos, such as new questions for my Harry Potter and Philosophy quizes.
 - 📫 How to reach me | You can find me on Twitter @irfanthegrey 👋👍
 
 <!---
