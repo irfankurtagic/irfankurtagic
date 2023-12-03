@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Irfan
-- 👀 I’m interested in fantasy worlds, gaming, philosophy, Linux, Windows, and tech in general.
+- 👀 I’m interested in fantasy worlds, games, philosophy, Linux, Windows, and tech in general.
 - 🌱 I’m mainly updating questions for Harry Potter and Philosophy quizzes.
 
 
