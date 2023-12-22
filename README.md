@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, my name is Irfan <br>
 - 👀 I’m interested in fantasy worlds, games, philosophy, Linux, Windows, and tech in general. <br>
 - 🌱 I’m mainly updating JSON questions file for Harry Potter and Philosophy quizzes. <br>
@@ -5,7 +6,7 @@
 - <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfankurtagic&show_icons=true&theme=transparent" />
 </a></p>
-<!---
+
 - 📫 How to reach me | You can find me on Twitter @irfanthegrey 👋👍
 
 
