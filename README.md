@@ -25,7 +25,7 @@ Some of my projects:
 * 💭 [Quoter](https://irfankurtagic.github.io/quoter/) — lightweight quote generator
 * 🧠 [MBTI Quiz](https://irfankurtagic.github.io/mbti-quiz/) — personality quiz with 150+ questions
 * 📚 [Philosophy Quiz](https://irfankurtagic.github.io/philosophy-quiz/) — interactive philosophy quiz
-* ✅ [Vue Todo](https://irfankurtagic.github.io/todo-wtih-vue/) — simple Vue.js application
+* ✅ [Vue Todo](https://irfankurtagic.github.io/todo-with-vue/) — simple Vue.js application
 
 ### 🐧 Interests
 
