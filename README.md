@@ -1,4 +1,6 @@
-### 🐧 Interests
+🫡
+
+<!-- ### 🐧 Interests
 
 Linux • Windows • troubleshooting • AI • web technologies • open source
 
