@@ -1,9 +1,10 @@
 
-- 👋 Hi, my name is Irfan.
+- 👋 Hi, my name is Irfan. 🤝
 - 👀 I’m interested in fantasy worlds, nature, games, philosophy, Linux, Windows (tech in general)
 - 🌱 I’m mainly updating JSON questions for Harry Potter Quiz and table for Real Madrid Assisting Stats
 - 📫 How to reach me | You can find me on [Linkedin](https://www.linkedin.com/in/irfan-kurtagic)
 
+<!---
 - 🤯 Amazing, right? … 🙂
 - <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfankurtagic&show_icons=true&theme=transparent" />
