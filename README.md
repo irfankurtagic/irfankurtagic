@@ -1,17 +1,34 @@
+# Hi, I'm Irfan 👋
 
-- 👋 Hi, my name is Irfan. 🤝
-- 👀 I’m interested in fantasy worlds, nature, games, philosophy, Linux, Windows (tech in general)
-- 🌱 I’m mainly updating JSON questions for Harry Potter Quiz and table for Real Madrid Assisting Stats
-- 📫 How to reach me | You can find me on [Linkedin](https://www.linkedin.com/in/irfan-kurtagic)
+**Technical Support · IT Operations · AI Operations**
 
-<!---
-- 🤯 Amazing, right? … 🙂
-- <p><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfankurtagic&show_icons=true&theme=transparent" />
-</a></p>
+Technical support and AI operations professional with 8+ years of experience supporting B2B software, troubleshooting Windows/SQL environments, working with cloud and on-premise systems, and reviewing AI-generated content.
 
-<br>
+### 🛠️ What I work with
 
+* **Technical Support:** B2B SaaS, troubleshooting, customer support
+* **Systems:** Windows, Windows Server, Linux
+* **Databases:** SQL Server, SSMS, backups & troubleshooting
+* **Cloud / Infrastructure:** AWS-hosted and on-premise environments
+* **AI Operations:** AI-generated content review, evaluation, correction & optimization
+* **Tools:** Microsoft Teams, Dynamics CRM, Power BI, Slack, Zoho, Git
+* **Web:** HTML, CSS, JavaScript, Vue
 
-irfankurtagic/irfankurtagic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+### 🔧 Projects
+
+I build small practical web tools and experiments, mainly to learn, visualize data, and explore ideas.
+
+Some of my projects:
+
+* 🧙 [Harry Potter Quiz](https://irfankurtagic.github.io/harry-potter-quiz/) — interactive quiz with 250+ questions
+* ⚽ [Real Madrid Assists](https://irfankurtagic.github.io/real-madrid-assists/) — football statistics/data visualization
+* 💭 [Quoter](https://irfankurtagic.github.io/quoter/) — lightweight quote generator
+* 🧠 [MBTI Quiz](https://irfankurtagic.github.io/mbti-quiz/) — personality quiz with 150+ questions
+* 📚 [Philosophy Quiz](https://irfankurtagic.github.io/philosophy-quiz/) — interactive philosophy quiz
+* ✅ [Vue Todo](https://irfankurtagic.github.io/todo-wtih-vue/) — simple Vue.js application
+
+### 🐧 Interests
+
+Linux • Windows • troubleshooting • AI • web technologies • open source
+
+📫 **LinkedIn:**  [Linkedin](https://www.linkedin.com/in/irfan-kurtagic)
