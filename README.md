@@ -1,4 +1,4 @@
-<!---
+
 - 👋 Hi, my name is Irfan.
 - 👀 I’m interested in fantasy worlds, nature, games, philosophy, Linux, Windows (tech in general)
 - 🌱 I’m mainly updating JSON questions for Harry Potter Quiz and table for Real Madrid Assisting Stats
