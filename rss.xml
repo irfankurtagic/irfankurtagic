@@ -12,14 +12,22 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <!-- Add more items as needed; keep 15 max -->
-    <!-- pubDate -->
 
-    <item>
+    
+<item>
       <title>byc0jl3 | Favorites</title>
       <guid isPermaLink="true">https://byc0jl3.neocities.org/about</guid>
-      <description><![CDATA[📅 2026 Aug 23 | New TV Show added.]]></description>
-      <pubDate>Sun, 23 Aug 2026 14:50:00 GMT</pubDate>
+      <description><![CDATA[📅 2026 Oct 26 | New Film added.]]></description>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 GMT</pubDate>
     </item>
+
+
+
+
+
+
+
+
 
 
 
@@ -122,26 +130,6 @@
       <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
     </item>
 
-    <item>
-      <title>YouTube Blog | Hollywood's biggest night is coming to YouTube</title>
-      <guid isPermaLink="true">https://blog.youtube/news-and-eventshollywoods-biggest-night-is-coming-to-youtube/</guid>
-      <description><![CDATA[Beginning in 2029, the Oscars® will broadcast exclusively on YouTube for free globally and on YouTube TV in the U.S., plus feature red carpet coverage, behind-the-scenes content, and Governors Ball access.]]></description>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Wes Cecil | The Germans: Schopenhauer</title>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=WP20RHlX6d4</guid>
-      <description><![CDATA["An exploration of the life, philosophy and influence of Schopenhauer. This lecture, the third in my series covering German thinkers, was presented by Wesley Cecil PhD at Peninsula College."]]></description>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>neal.fun | Size of Life</title>
-      <guid isPermaLink="true">https://neal.fun/size-of-life</guid>
-      <description><![CDATA[From DNA to Neuron to Ladybug to  Woolly Mammoth to  Blue Whale.]]></description>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
 
   </channel>
 </rss>
