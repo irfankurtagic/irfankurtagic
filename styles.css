@@ -6,6 +6,8 @@ html {
   /* Modern standard */
   font-size: 100%;
   /* Respects user browser settings */
+  line-height: 1.8;
+  font-size: 1.1rem;
 }
 
 body {
