@@ -71,7 +71,7 @@ ul {
   list-style-type: square;
 }
 
-#favTit {
+.favTit {
   color: blue;
 }
 
@@ -104,7 +104,7 @@ ul {
     color: #e85d01;
   }
 
-  #favTit {
+  .favTit {
     color: #e85d01;
   }
 }
