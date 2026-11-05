@@ -72,6 +72,12 @@ ul {
 
 .favTit {
   color: blue;
+  display: inline-block;
+  margin: 0;
+}
+
+#projects {
+  margin-top: 3rem;
 }
 
 
